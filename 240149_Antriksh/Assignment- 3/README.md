@@ -1,0 +1,5 @@
+## Quantum Transpilation
+
+This notebook is a part of the IBM Quantum Challenge 2024, which uses Qiskit to explore the idea of quantum transpilation. Transpilation is the process of modifying quantum circuits through a number of steps in order to make them function well on particular hardware. This lab demonstrates how the structure and functionality of quantum circuits are impacted by various optimisation levels and transpiler stages, including layout selection, routing techniques, and scheduling. In order to gain a better understanding of how circuit compilation affects execution on actual quantum devices, the challenge also involved customising transpilation pipelines and utilising strategies like dynamical decoupling to reduce noise.
+
+**Note**- Some cells in the notebook may not be work as expected due to the non- availabilityof  the *util.py* file and the `qc_grader` function.
