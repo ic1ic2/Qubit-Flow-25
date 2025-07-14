@@ -10,3 +10,9 @@
 
 ### Assignment 5 (Part 1): AI-Powered Transpilers
 
+### Assignment 6: Circuit Knitting
+
+### Assignment 7: Deutsch–Jozsa Algorithm - Implementation
+
+### Assignment 8: Grover's Algorithm - Implementation
+
