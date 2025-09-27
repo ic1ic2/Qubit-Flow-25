@@ -1,6 +1,6 @@
 In this Assignment we had implemented noise error models to both the 2-Qubit Heisenberg State Simulation as well as a 3-Qubit Heisenberg
 Simulation.
----
+***
 **2-Qubit Heisenberg State**
 1. Firstly we implemented the same quantum circuit as we did in Assignment 2. 
 2. Then we added a 5% depolarizing error to all the gates using NoiseModel from qiskit_aer.noise.
@@ -12,3 +12,4 @@ Simulation.
 **3-Qubit Heisenberg State**
 1. Similar to 2 qubit heisenberg state, we made the quantum circuit as we did in Assignment 2.
 2.The difference here was just of the type of observables and gates used as we scaled the model from 2-Qubit to 3-Qubit.
+
