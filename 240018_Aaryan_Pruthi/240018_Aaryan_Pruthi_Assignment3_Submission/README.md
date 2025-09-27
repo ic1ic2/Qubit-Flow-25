@@ -6,7 +6,7 @@ Quantum Hardware Used: FakeTorino which simulates IBM_Torino
 
 Quantum Framework: Qiskit
 
-⚙️ The Six Stages of Transpilation
+The Six Stages of Transpilation
 The transpilation process was broken down into the following six stages, with each stage's output being visualized and analyzed.
 
 1. Circuit Decomposition
